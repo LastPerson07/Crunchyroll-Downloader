@@ -1,0 +1,20 @@
+Put your own CDM here.
+========================
+
+This folder is where the script looks for its Widevine device file.
+
+It must be named exactly:
+
+    LastPerson07.wvd
+
+Full path:
+
+    LastPerson07/LastPerson07.wvd
+
+I am not shipping one and I will not give you one. Dump your own from a
+device you own. Without this file the script cannot decrypt anything -
+there is no workaround and no public one that still works.
+
+If you see this file in a repo you cloned, that is expected. It is just a
+placeholder so the folder exists.
+
